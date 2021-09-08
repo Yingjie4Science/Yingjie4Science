@@ -153,7 +153,6 @@ marketing:
 cms:
   branch: master
   local_backend: false
-  netlify_cms: true
 icon:
   pack:
     ai: true

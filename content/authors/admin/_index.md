@@ -65,9 +65,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +78,5 @@ highlight_name: true
 
 Yingjie is a PhD student in the CSIS at MSU. He is pursuing his research interest in ecosystem services and telecoupled human and natural systems. He has broad interests in ecosystem services, environmental policies, land use/cover change modelling, virtual resources flows and the impacts on global sustainability.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# can un-commen the following line to add an option to download cv PDF
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
