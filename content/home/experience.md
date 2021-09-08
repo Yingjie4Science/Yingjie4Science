@@ -25,7 +25,7 @@ experience:
   - title: YSSP
     company: IIASA
     company_url: 'git@github.com:Yingjie4Science/Yingjie4Science.git'
-    company_logo: org-gc
+    company_logo: IIASA_PNG-logo-short_blue
     location: Laxenburg, Austria
     date_start: '2021-06-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assitant
     company: Michigan State University
     company_url: ''
-    company_logo: org-x
+    company_logo: MSU_LOGO
     location: East Lansing, Michigan
     date_start: '2017-08-01'
     date_end: ''

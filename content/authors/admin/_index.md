@@ -18,18 +18,22 @@ bio: I have broad interests in ecosystem services flows and the impacts of *tele
 
 # Interests to show in About widget
 interests:
-- Sustainable Development Goals (SDGs)
+- SDGs
 - Telecoupling
-- Ecosystem Service Flows
+- Ecosystem Services
 - Coastal Dead Zones
-- Remote Sensing & Social Sensing
+- Remote Sensing
+- Social Sensing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Fisheries and Wildlife, Environmental Science and Policy (doctoral dual major)
+  - course: PhD in Fisheries and Wildlife
     institution: Michigan State University
     year: 2017 - 
+  - course: PhD in Environmental Science and Policy (dual major)
+    institution: Michigan State University
+    year: 2017 -
   - course: MS in Geography 
     institution: Shaanxi Normal University
     year: 2014 - 2017
