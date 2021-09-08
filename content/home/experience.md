@@ -28,13 +28,13 @@ experience:
     company_logo: IIASA_PNG-logo-short_blue
     location: Laxenburg, Austria
     date_start: '2021-06-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    date_end: '2021-8-31'
+    
+# description: |2-
+#     Responsibilities include:
+#     * Analysing
+#     * Modelling
+#     * Deploying
         
   - title: Research Assitant
     company: Michigan State University
