@@ -52,13 +52,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Yingjie4Science/
-- icon: google-scholar  #`graduation-cap` from `fab`; or `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=uVeP2xAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/Yingjie4Science
-- icon: cv # or `linkedin` from `fab`
+- icon: cv
   icon_pack: ai
   link: https://docs.google.com/document/d/1foUW__2DxmC6NpGTjmQz7LZtA5B1zb9XPiubqugibWE/edit?usp=sharing
 
