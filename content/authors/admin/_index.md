@@ -77,7 +77,3 @@ highlight_name: true
 ---
 
 Yingjie is a PhD student in the CSIS at MSU. He is pursuing his research interest in ecosystem services and telecoupled human and natural systems. He has broad interests in ecosystem services, environmental policies, land use/cover change modelling, virtual resources flows and the impacts on global sustainability.
-
-
-### can un-commen the following line to add an option to download cv PDF
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
