@@ -55,6 +55,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=uVeP2xAAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yingjie-Li-7
 - icon: github
   icon_pack: fab
   link: https://github.com/Yingjie4Science
@@ -76,4 +79,4 @@ email: ""
 highlight_name: true
 ---
 
-Yingjie is a PhD student in the CSIS at MSU. He is pursuing his research interest in ecosystem services and telecoupled human and natural systems. He has broad interests in ecosystem services, environmental policies, land use/cover change modelling, virtual resources flows and the impacts on global sustainability.
+Yingjie is a PhD Candidate in the Center for Systems Integration and Sustainability at MSU. His current research examines how [telecouplings](https://telecouplingtoolbox.org/) shape global sustainability. He also has broad interests in ecosystem service flows, land-food-energy-water nexus, coastal dead zones, international trade, and global environmental governance.

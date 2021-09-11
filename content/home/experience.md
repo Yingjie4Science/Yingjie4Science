@@ -22,15 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: YSSP
-    company: IIASA
-    company_url: 'git@github.com:Yingjie4Science/Yingjie4Science.git'
+  - title: Young Scientist
+    company: International Institute for Applied Systems Analysis (IIASA)
+    company_url: 'https://iiasa.ac.at/'
     company_logo: IIASA_PNG-logo-short_blue
     location: Laxenburg, Austria
     date_start: '2021-06-01'
     date_end: ''
         
-  - title: Research Assitant
+  - title: Fellow
+    company: Future Earth Coasts
+    company_url: 'https://www.futureearthcoasts.org/'
+    company_logo: Future_Earth_Coast
+    location: ''
+    date_start: '2021-07-01'
+    date_end: ''
+    
+  - title: Research Assistant
     company: Michigan State University
     company_url: ''
     company_logo: MSU_LOGO
