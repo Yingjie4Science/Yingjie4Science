@@ -31,7 +31,7 @@ experience:
     date_end: ''
         
   - title: Fellow
-    company: Future Earth Coasts
+    company: Future Earth Coasts.png
     company_url: 'https://www.futureearthcoasts.org/'
     company_logo: Future_Earth_Coast
     location: ''
@@ -40,7 +40,7 @@ experience:
     
   - title: Research Assistant
     company: Michigan State University
-    company_url: ''
+    company_url: 'https://www.canr.msu.edu/people/yingjie-li'
     company_logo: MSU_LOGO
     location: East Lansing, Michigan
     date_start: '2017-08-01'
