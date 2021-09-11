@@ -25,13 +25,13 @@ experience:
   - title: Young Scientist
     company: International Institute for Applied Systems Analysis (IIASA)
     company_url: 'https://iiasa.ac.at/'
-    company_logo: IIASA_PNG-logo-short_blue
+    company_logo: IIASA_logo
     location: Laxenburg, Austria
     date_start: '2021-06-01'
     date_end: ''
         
   - title: Fellow
-    company: Future Earth Coasts.png
+    company: Future Earth Coasts
     company_url: 'https://www.futureearthcoasts.org/'
     company_logo: Future_Earth_Coast
     location: ''
