@@ -41,7 +41,7 @@ experience:
   - title: Research Assistant
     company: Michigan State University
     company_url: 'https://www.canr.msu.edu/people/yingjie-li'
-    company_logo: MSU_LOGO
+    company_logo: MSU_logo
     location: East Lansing, Michigan
     date_start: '2017-08-01'
     date_end: ''
