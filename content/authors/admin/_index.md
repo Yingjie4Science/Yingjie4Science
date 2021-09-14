@@ -79,4 +79,4 @@ email: " "
 highlight_name: true
 ---
 
-Yingjie is a PhD Candidate in the Center for Systems Integration and Sustainability at MSU. His current research examines how [telecouplings](https://telecouplingtoolbox.org/) shape global sustainability. He also has broad interests in ecosystem service flows, land-food-energy-water nexus, coastal dead zones, international trade, and global environmental governance.
+Yingjie is a PhD Candidate in the Center for Systems Integration and Sustainability at MSU. His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, land-food-energy-water nexus, coastal dead zones, international trade, and global environmental governance.
