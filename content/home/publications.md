@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 35
 
 title: Publications
 subtitle: ''
@@ -26,7 +26,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:
