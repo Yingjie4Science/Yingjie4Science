@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: SDGs
-    tag: SDGS
+    tag: SDGs
   - name: Ecosystem Services
     tag: ES
   - name: Telecoupling

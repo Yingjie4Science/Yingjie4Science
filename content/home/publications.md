@@ -26,10 +26,10 @@ content:
     tag: '*'
   - name: SDGs
     tag: SDGs
-  - name: Ecosystem Services
-    tag: ES
-  - name: Telecoupling
-    tag: Telecoupling
+  # - name: Ecosystem Services
+  #   tag: ES
+  # - name: Telecoupling
+  #   tag: Telecoupling
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
