@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 50
 
 title: Publications
 subtitle: ''
@@ -28,7 +28,7 @@ content:
     category: ''
     publication_type: '2'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -37,3 +37,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
