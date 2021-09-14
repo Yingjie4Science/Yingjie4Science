@@ -36,8 +36,9 @@ publishDate: "2020-07-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Sustainability*"
-publication_short: "*Nat. Sustain.*"
+publication: In *Nature Sustainability*
+publication_short: In *Nat. Sustain.*
+
 
 abstract: Enhancing the accounting for and management of virtual resources embedded in trade is essential for achieving and balancing sustainable development for all.
 
