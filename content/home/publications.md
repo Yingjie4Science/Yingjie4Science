@@ -25,7 +25,7 @@ content:
   - name: All
     tag: '*'
   - name: SDGs
-    tag: SDGS
+    tag: SDGs
   - name: Ecosystem Services
     tag: ES
   - name: Telecoupling
@@ -41,8 +41,7 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
+  
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
