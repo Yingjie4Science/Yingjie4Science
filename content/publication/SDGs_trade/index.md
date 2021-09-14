@@ -23,7 +23,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-07-13T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41893-020-0572-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-13T00:00:00Z"
@@ -36,7 +36,7 @@ publishDate: "2020-07-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Nature Sustainability*
+publication: In *Nature Sustainability*
 # publication_short: In *ICW*
 
 abstract: Our research suggests that enhancing the accounting for and management of virtual resources embedded in trade is essential for achieving and balancing sustainable development for all.
