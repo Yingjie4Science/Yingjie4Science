@@ -44,15 +44,15 @@ abstract: Our research suggests that enhancing the accounting for and management
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [SDGs]
+tags: SDGs
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
+# - name: Online Appendix
+#   url: pdf/supplemental_information.pdf
 
 url_pdf: 'https://www.nature.com/articles/s41893-020-0572-z'
 url_code: 'https://github.com/Yingjie4Science/SDGs_Global_Trade'
