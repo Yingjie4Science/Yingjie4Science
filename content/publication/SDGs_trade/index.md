@@ -36,10 +36,10 @@ publishDate: "2020-07-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Sustainability*
-# publication_short: In *ICW*
+publication: "*Nature Sustainability*"
+publication_short: "*Nat. Sustain.*"
 
-abstract: Our research suggests that enhancing the accounting for and management of virtual resources embedded in trade is essential for achieving and balancing sustainable development for all.
+abstract: Enhancing the accounting for and management of virtual resources embedded in trade is essential for achieving and balancing sustainable development for all.
 
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,7 +66,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: true
 
