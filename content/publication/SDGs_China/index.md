@@ -4,7 +4,7 @@ title: "Assessing progress towards sustainable development over space and time"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors: ['Zhenci Xu', 'Sophia N. Chau', 'Xiuzhi Chen', 'Jian Zhang', 'Yingjie Li', 'Thomas Dietz', 'Jinyan Wang', 'Julie A. Winkler', 'Fan Fan', 'Baorong Huang', 'Shuxin Li', 'Shaohua Wu', 'Anna Herzberger', 'Ying Tang', 'Dequ Hong', 'Yunkai Li', 'Jianguo Liu']
+authors: ['Zhenci Xu', 'Sophia N. Chau', 'Xiuzhi Chen', 'Jian Zhang', admin, 'Thomas Dietz', 'Jinyan Wang', 'Julie A. Winkler', 'Fan Fan', 'Baorong Huang', 'Shuxin Li', 'Shaohua Wu', 'Anna Herzberger', 'Ying Tang', 'Dequ Hong', 'Yunkai Li', 'Jianguo Liu']
 
 # Author notes (optional)
 # author_notes:

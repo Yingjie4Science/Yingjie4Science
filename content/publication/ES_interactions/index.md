@@ -13,7 +13,7 @@ authors:
 - Pengtao Wang
 - Ningke Hu
 - Wei Cheng
-- Bojie Fu]
+- Bojie Fu
 
 # Author notes (optional)
 # author_notes:
