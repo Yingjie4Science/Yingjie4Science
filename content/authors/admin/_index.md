@@ -18,9 +18,11 @@ bio: I have broad interests in ecosystem services flows and the impacts of *tele
 
 # Interests to show in About widget
 interests:
+- Sustainability 
 - SDGs
 - Telecoupling
 - Ecosystem Services
+- Renewable Energy and Environment
 - Coastal Dead Zones
 - Remote Sensing
 - Social Sensing
@@ -28,12 +30,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Environmental Science & Policy (dual major)
+    institution: Michigan State University
+    year: 2017 -
   - course: PhD in Fisheries and Wildlife
     institution: Michigan State University
     year: 2017 - 
-  - course: PhD in Environmental Science and Policy (dual major)
-    institution: Michigan State University
-    year: 2017 -
   - course: MS in Geography 
     institution: Shaanxi Normal University
     year: 2014 - 2017
@@ -79,4 +81,6 @@ email: " "
 highlight_name: true
 ---
 
-Yingjie is a PhD Candidate in the Center for Systems Integration and Sustainability at MSU. His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, land-food-energy-water nexus, coastal dead zones, international trade, and global environmental governance.
+Yingjie is a PhD Candidate in the Center for Systems Integration and Sustainability at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing sustainable development goals (*SDGs*). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, land-food-energy-water nexus, coastal dead zones, international trade, and global environmental governance.
+
+Yingjie expects to graduate and earn his Ph.D. degree in the Summer of 2022, and he is currently **seeking Postdoc or Assistant Professor positions** starting in the Fall 2022. 

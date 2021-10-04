@@ -28,7 +28,7 @@ experience:
     company_logo: IIASA_logo
     location: Laxenburg, Austria
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2021-09-30'
         
   - title: Fellow
     company: Future Earth Coasts
