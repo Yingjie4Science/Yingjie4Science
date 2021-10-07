@@ -17,26 +17,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- name: R
+  description: ""
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 60%
-  icon: camera-retro
-  icon_pack: fas
-  name: Python
-- icon: "satellite"
-  icon_pack: "custom"
-  name: "Remote Sensing"
+- name: Python
   description: ""
-- icon: "GIS"
+  icon: Python
   icon_pack: "custom"
-  name: "Geospatial Analysis"
+- name: "Remote Sensing"
+  icon: "satellite"
+  icon_pack: "custom"
   description: ""
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- name: "Geospatial Analysis"
+  icon: "GIS"
+  icon_pack: "custom"
+  description: ""
+# - name: Statistics
+#   description: ""
+#   icon: chart-line
+#   icon_pack: fas
+  
 
 
 # Uncomment to use emoji icons.
