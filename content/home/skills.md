@@ -30,13 +30,13 @@ feature:
   icon_pack: "custom"
   description: ""
 - name: "Geospatial Analysis"
-  icon: "GIS"
+  icon: "gis_a"
   icon_pack: "custom"
   description: ""
-# - name: Statistics
-#   description: ""
-#   icon: chart-line
-#   icon_pack: fas
+- name: Statistics
+  description: ""
+  icon: chart-line
+  icon_pack: fas
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -63,6 +63,6 @@ design:
   
   
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
 ---
