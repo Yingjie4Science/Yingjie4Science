@@ -5,7 +5,7 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -21,14 +21,23 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
 - description: 60%
   icon: camera-retro
   icon_pack: fas
   name: Python
+- icon: "satellite"
+  icon_pack: "custom"
+  name: "Remote Sensing"
+  description: ""
+- icon: "GIS"
+  icon_pack: "custom"
+  name: "Geospatial Analysis"
+  description: ""
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
