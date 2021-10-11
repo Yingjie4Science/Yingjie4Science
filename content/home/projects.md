@@ -43,8 +43,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase # (large images), only available for projects
-  view: 1
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
 ---
