@@ -55,12 +55,16 @@ slides: ""
 
 {{< figure src="aquaculture_china.PNG" caption="" numbered="true" >}}
 
-{{< figure src="algea_China.jpg" caption="" numbered="true" >}}
+{{< figure src="algea_China.jpg" caption="Photoed by Dr. Ruishan Chen" >}}
 
 
   Exchanging food leads to loss in both countries' coastal ecosystems.
   
   In what way can countries achieve win-win in both *food security* and *coastal ecosystem health*?
+  {style="color: red"}
+  
+  
+{{< youtube w7Ft2ymGmfc >}}
 
 
 
