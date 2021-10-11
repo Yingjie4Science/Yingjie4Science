@@ -40,12 +40,18 @@ url_video: ""
 slides: ""
 ---
 
+## Summary
 Text description to be added.
 
 
 
 
-## Booming aquaculture in the East coasts of China
+> Booming aquaculture in the East coasts of China
+
+
 <p align="center">
   <img src="/content/project/dead_zone_aquaculture/featured.PNG" />
 </p>
+
+
+![featured](/content/project/dead_zone_aquaculture/featured.PNG)
