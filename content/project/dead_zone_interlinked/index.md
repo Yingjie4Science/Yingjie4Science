@@ -49,9 +49,7 @@ Text description to be added.
 > Booming aquaculture in the East coasts of China
 
 
-<p align="center">
-  <img src="/content/project/dead_zone_aquaculture/featured.PNG" />
-</p>
+{{< figure src="aquaculture_china.PNG" caption="A caption" numbered="true" >}}
 
 
-![featured](/content/project/dead_zone_aquaculture/featured.PNG)
+![aquaculture_china](/content/project/dead_zone_interlinked/aquaculture_china.PNG)
