@@ -41,15 +41,26 @@ slides: ""
 ---
 
 ## Summary
-Text description to be added.
+
+  Spreading hypoxic dead zones in the global coasts increasingly threatens marine ecosystem health and essential ecosystem services (e.g., fisheries, aquaculture, and recreation). 
+  
+  Intensive agriculture to meet increasing needs is recognized as one of the major causes for growing dead zones in the Gulf. 
+
+{{< figure src="deadzone_GOM.jpg" caption="" numbered="true" >}}
+
+
+  However, even with substantially reduced ag activities, there is no sign of alleviating the deterioration trend, drawing evidence from China. 
+  
+  New driving forces, such as the booming **aquaculture** in the East coasts of China, are breeding even more algae blooms. 
+
+{{< figure src="aquaculture_china.PNG" caption="" numbered="true" >}}
+
+{{< figure src="algea_China.jpg" caption="" numbered="true" >}}
+
+
+  Exchanging food leads to loss in both countries' coastal ecosystems.
+  
+  In what way can countries achieve win-win in both *food security* and *coastal ecosystem health*?
 
 
 
-
-> Booming aquaculture in the East coasts of China
-
-
-{{< figure src="aquaculture_china.PNG" caption="A caption" numbered="true" >}}
-
-
-![aquaculture_china](/content/project/dead_zone_interlinked/aquaculture_china.PNG)
