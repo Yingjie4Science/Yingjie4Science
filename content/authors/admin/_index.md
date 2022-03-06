@@ -82,5 +82,3 @@ highlight_name: true
 ---
 
 Yingjie is a Ph.D. Candidate in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
-
-Yingjie expects to graduate and earn his Ph.D. degree in the Summer of 2022, and he is currently **seeking Postdoc or Assistant Professor positions** starting in the Fall 2022. 

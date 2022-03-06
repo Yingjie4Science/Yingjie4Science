@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral scholar
+    company: Stanford University
+    company_url: 'https://naturalcapitalproject.stanford.edu/about/people'
+    company_logo: SU_New_BlockStree_2color
+    location: Stanford, California
+    date_start: '2022-09-01'
+    date_end: ''
+
   - title: Young Scientist
     company: International Institute for Applied Systems Analysis (IIASA)
     company_url: 'https://iiasa.ac.at/'
@@ -29,7 +37,7 @@ experience:
     location: Laxenburg, Austria
     date_start: '2021-06-01'
     date_end: '2021-09-30'
-        
+    
   - title: Fellow
     company: Future Earth Coasts
     company_url: 'https://www.futureearthcoasts.org/'
