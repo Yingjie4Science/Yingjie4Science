@@ -37,7 +37,7 @@ publication: In *Nature Sustainability*
 publication_short: In *Nat. Sustain.*
 
 
-abstract: Understanding the complex interactions among the Sustainable Development Goals (SDGs) is key to achieving all of the SDGs and ‘leaving no one behind’. However, research about dynamic changes of SDG interactions is limited, and how they change as sustainable development progresses remains elusive. Here, we used a correlational network approach and a global SDG database of 166 countries to analyse the evolution of SDG interactions along a progression of sustainable development measured by the SDG Index. SDG interactions showed nonlinear changes as the SDG Index increased: SDGs were both more positively and more negatively connected at low and high sustainable development levels, but they were clustered into more isolated positive connection groups at middle levels. The identification of a process of decoupling followed by re-coupling along the SDG Index strengthens our understanding of sustainable development and may help to suggest action priorities to achieve as many SDGs as possible by 2030.
+abstract: Understanding the complex interactions among the Sustainable Development Goals (SDGs) is key to achieving all of the SDGs and "leaving no one behind".
 
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
