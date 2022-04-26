@@ -15,9 +15,9 @@ authors:
 - Jianguo Liu
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2022-03-24T00:00:00Z"
 doi: "https://doi.org/10.1038/s41893-022-00868-x"
