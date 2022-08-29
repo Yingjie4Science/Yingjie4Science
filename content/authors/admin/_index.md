@@ -6,12 +6,12 @@ title: Yingjie Li
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Michigan State University
-  url: https://www.canr.msu.edu/people/yingjie-li
+- name: Stanford University
+  url: https://profiles.stanford.edu/yingjie-li
 
 # Short bio (displayed in user profile at end of posts)
 bio: I have broad interests in ecosystem services flows and the impacts of *telecoupling* on global sustainability.
@@ -81,4 +81,4 @@ email: " "
 highlight_name: true
 ---
 
-Yingjie is a Ph.D. Candidate in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
+Yingjie is a Postdoctoral Scholar in the Natural Capital Project at Stanford University. He did his Ph.D. in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
