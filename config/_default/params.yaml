@@ -6,9 +6,9 @@
 # Appearance
 
 # theme: minimal
-theme: ""
+# theme: ""
 theme_day: my_theme
-theme_night: my_theme
+# theme_night: my_theme
 day_night: true
 font: ''
 font_size: L
@@ -21,17 +21,18 @@ org_name: ''
 description: ''
 twitter: ''
 
+
 # Contact (edit or remove options as required)
 
-email: YingjieLi.edu@gmail.com
+# email: YingjieLi.edu@gmail.com
 # phone: 888 888 88 88
-address:
-  street: 1405 S. Harrison St.
-  city: East Lansing
-  region: MI
-  postcode: '48823'
-  country: United States
-  country_code: US
+# address:
+#   street: 1405 S. Harrison St.
+#   city: East Lansing
+#   region: MI
+#   postcode: '48823'
+#   country: United States
+#   country_code: US
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
