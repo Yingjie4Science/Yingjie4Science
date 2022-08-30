@@ -32,10 +32,10 @@ education:
   courses:
   - course: PhD in Environmental Science & Policy (dual major)
     institution: Michigan State University
-    year: 2017 -
+    year: 2017 - 2022
   - course: PhD in Fisheries and Wildlife
     institution: Michigan State University
-    year: 2017 - 
+    year: 2017 - 2022
   - course: MS in Geography 
     institution: Shaanxi Normal University
     year: 2014 - 2017
@@ -81,4 +81,4 @@ email: " "
 highlight_name: true
 ---
 
-Yingjie is a Postdoctoral Scholar in the Natural Capital Project at Stanford University. He did his Ph.D. in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
+Yingjie is a Postdoctoral Scholar in the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/) at Stanford University. He did his Ph.D. in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. He also has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
