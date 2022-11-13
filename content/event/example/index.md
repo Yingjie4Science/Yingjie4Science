@@ -1,7 +1,7 @@
 ---
 title: International spillovers on achieving national SDGs
 
-event: International Cooperation for Global Challenges: 50 Years of Building Research Bridges at IIASA
+event: International Cooperation for Global Challenges - 50 Years of Building Research Bridges at IIASA
 event_url: https://iiasa.ac.at/events/may-2022/us-and-iiasa-workshop-on-50-years-of-building-research-bridges
 
 location: Boston University Pardee School of Global Studies, , MA, USA
