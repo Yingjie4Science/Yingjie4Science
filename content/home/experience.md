@@ -52,7 +52,7 @@ experience:
     company_logo: MSU_icon
     location: East Lansing, Michigan
     date_start: '2017-08-01'
-    date_end: ''
+    date_end: '2022-05-30'
     description: ''
 
 design:

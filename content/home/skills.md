@@ -37,6 +37,10 @@ feature:
   description: ""
   icon: chart-line
   icon_pack: fas
+- name: Google Earth Engine
+  description: ""
+  icon: 'GEE'
+  icon_pack: "custom"
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
