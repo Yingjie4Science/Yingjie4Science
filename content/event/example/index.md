@@ -1,5 +1,5 @@
 ---
-title: FW 893 Metacoupling Science: Interdisciplinary Frontiers and Global Applications
+title: FW 893 Metacoupling Science - Interdisciplinary Frontiers and Global Applications
 
 event: Wowchemy Conference
 event_url: https://example.org
