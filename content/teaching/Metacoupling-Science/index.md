@@ -6,13 +6,13 @@ event_url: https://github.com/MetaCHANS/Metacoupling-Science-Course
 
 
 # <- optional>
-# location: Wowchemy HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "This course will examine key issues and exciting frontiers in the new science of metacoupling (human-nature interactions within as well as between adjacent and distant coupled human and natural systems, e.g., social-ecological systems, human-environment systems). Metacoupling science has emerged as a hot topic as it helps guide innovative scientific discoveries and create integrated solutions to global challenges in sustainability, conservation, management, policy, and governance. Besides discussing important metacoupling concepts and methods as well as applications to a variety of important scientific and societal issues (e.g., biodiversity, climate change, ecosystem services, energy, environment, fisheries, food, forest, species invasion, land, migration, trade, water, and wildlife), students will have opportunities to learn how to write high-impact papers. This seminar course will consist of lectures, guest lectures and students-led discussion sessions."
@@ -30,7 +30,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -51,7 +51,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,7 +59,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- projects = ["SDG_MC"]
+- ""
 ---
 
 {{% callout note %}}
