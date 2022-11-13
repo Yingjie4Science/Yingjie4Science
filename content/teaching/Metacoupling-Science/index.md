@@ -2,7 +2,7 @@
 title: FW 893 Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 
 event: FW 893 Metacoupling Science
-event_url: https://github.com/MetaCHANS/Metacoupling-Science-Course
+event_url: "https://github.com/MetaCHANS/Metacoupling-Science-Course"
 
 
 # <- optional>
