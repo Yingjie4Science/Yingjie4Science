@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Metacoupling Science - Interdisciplinary Frontiers and Global Applications
-    company: Michigan State University
+  - title: Teaching assistant & Guest Lecturer
+    company: Metacoupling Science - Interdisciplinary Frontiers and Global Applications
     company_url: 'https://github.com/MetaCHANS/Metacoupling-Science-Course'
     company_logo: MSU_icon
     location: East Lansing, Michigan
