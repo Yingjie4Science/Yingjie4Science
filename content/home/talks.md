@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: collection
 
 # This file represents a page section.
 headless: true
@@ -20,7 +20,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: "Yingjie Li"
+    author: ""
     category: ""
     tag: ""
     exclude_featured: false
