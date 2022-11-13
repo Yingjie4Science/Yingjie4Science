@@ -20,10 +20,10 @@ bio: I have broad interests in ecosystem services flows and the impacts of *tele
 interests:
 - Sustainability 
 - SDGs
-- urban nature and health
+- Urban nature and health
+- Environmental Footprints
 - Telecoupling
 - Ecosystem Services
-- Renewable Energy and Environment
 - Coastal Dead Zones
 - Remote Sensing
 - Social Sensing
