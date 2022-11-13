@@ -2,7 +2,7 @@
 title: FW 893 Metacoupling Science: Interdisciplinary Frontiers and Global Applications
 
 event: FW 893 Metacoupling Science
-event_url: "https://github.com/MetaCHANS/Metacoupling-Science-Course"
+event_url: ""
 
 
 # <- optional>
@@ -58,8 +58,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- ""
+projects: ""
 ---
 
 {{% callout note %}}
