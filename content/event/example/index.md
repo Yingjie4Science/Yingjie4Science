@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: International spillovers on achieving national SDGs
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: International Cooperation for Global Challenges: 50 Years of Building Research Bridges at IIASA
+event_url: https://iiasa.ac.at/events/may-2022/us-and-iiasa-workshop-on-50-years-of-building-research-bridges
 
-location: Wowchemy HQ
+location: Boston University Pardee School of Global Studies, , MA, USA
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 121 Bay State Rd
+  city: Boston
+  region: MA
+  postcode: '02215'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'IIASA, the US National Member Organization Committee, and Friends of IIASA are organizing a one-day, in-person conference in Boston on 26 May. The program will highlight both the institute’s research accomplishments and its pioneering role as an instrument of science diplomacy. The day will celebrate the institute’s past, consider its future, and connect with a diverse assortment of people in the U.S. IIASA community.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-05-26T13:00:00Z'
+date_end: '2022-05-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/Yingjie4Science
 url_code: ''
 url_pdf: ''
 url_slides: ''
