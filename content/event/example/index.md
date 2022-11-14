@@ -9,15 +9,15 @@ address:
   region: MA
   postcode: '02215'
   country: United States
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: The study quantified the often-ignored transnational impacts on achieving global sustainability.
 abstract: 'In an increasingly interconnected world, each country’s ability to achieve the United Nations Sustainable Development Goals (SDGs) can be affected by external effects from other countries. For example, importing beef and soybeans to enhance domestic food security can lead to deforestation in exporting countries. Yet, little research has comprehensively evaluated these transnational effects in tracking countries’ SDG progress. Ignoring these transnational effects may result in one country achieving the SDGs at the cost of others or missing positive synergies. To evaluate such effects, we first quantified the international flows of resources and embedded socio-environmental footprints in trade, and used the amount of flows relative to country’s resources and environment carrying capacity to quantify the transnational effects on each of the 17 SDGs for 189 countries.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-07-26T13:00:00Z'
-date_end: '2021-07-27T15:00:00Z'
+date: '2021-07-26T09:00:00Z'
+date_end: '2021-07-27T18:00:00Z'
 all_day: false
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-07-30T00:00:00Z'
 authors: []
 tags: []
 
