@@ -1,8 +1,8 @@
 ---
 title: Example Talk
-event: Wowchemy Conference
+event: International Cooperation for Global Challenges - 50 Years of Building Research Bridges at IIASA
 event_url: https://example.org
-location: Wowchemy HQ
+location: Boston University Pardee School of Global Studies
 address:
   street: 450 Serra Mall
   city: Stanford
