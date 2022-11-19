@@ -47,8 +47,8 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: 'https://doi.org/10.1016/j.rse.2022.113346'
-url_code: ''
+url_pdf: 'Li et al_2023_RSE_hypoxia.pdf'
+url_code: 'https://github.com/samuelVJrobinson/hypoxiaMapping'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- []
+- dead_zone_interlinked
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
