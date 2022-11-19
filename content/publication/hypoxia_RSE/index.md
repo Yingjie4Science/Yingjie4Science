@@ -46,8 +46,8 @@ featured: true
 # links:
 # - name: Online Appendix
 # url: pdf/supplemental_information.pdf
-url: 'Li_etal_2023_RSE_hypoxia.pdf'
-url_pdf: 'Li_et_al_2023_RSE_hypoxia.pdf'
+
+url_pdf: ''
 url_code: 'https://github.com/samuelVJrobinson/hypoxiaMapping'
 url_dataset: ''
 url_poster: ''
