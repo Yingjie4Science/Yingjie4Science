@@ -45,8 +45,8 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Online Appendix
-#   url: pdf/supplemental_information.pdf
-
+# url: pdf/supplemental_information.pdf
+url: 'Li et al_2023_RSE_hypoxia.pdf'
 url_pdf: 'Li et al_2023_RSE_hypoxia.pdf'
 url_code: 'https://github.com/samuelVJrobinson/hypoxiaMapping'
 url_dataset: ''
