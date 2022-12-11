@@ -20,11 +20,10 @@ bio: I have broad interests in ecosystem services flows and the impacts of *tele
 interests:
 - Sustainability 
 - SDGs
-- Urban nature and health
+- Urban Nature and Health
 - Environmental Footprints
 - Telecoupling
 - Ecosystem Services
-- Coastal Dead Zones
 - Remote Sensing
 - Social Sensing
 
@@ -83,6 +82,6 @@ highlight_name: true
 ---
 
 Yingjie is a Postdoctoral Scholar in the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/) at Stanford University. He did his Ph.D. in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines 
-  (1) the connection between urban nature exposure and human health; and 
+  (1) the linkages between urban nature exposure and human health; and 
   (2) *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. 
 He has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
