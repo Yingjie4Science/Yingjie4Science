@@ -11,7 +11,7 @@ date: "2022-09-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by xxx
+  caption: ''
   focal_point: Smart
 
 links:
@@ -38,6 +38,5 @@ slides: ""
   
   We aim to reveal where and how nature provides greatest benefits to people, and what actions need to take to enhance urban nature and improve health, equity, livability, and sustainability of cities
 
-# {{< figure src="featured.png" caption="" numbered="true" >}}
 
 
