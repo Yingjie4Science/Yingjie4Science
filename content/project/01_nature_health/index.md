@@ -1,6 +1,6 @@
 ---
-title: Investing in Urban Nature for Healthy and Sustainable Cities
-summary: Over half of humanity lives in cities.  Nature-deprived urban lifestyles increase already massive health burdens and risks. We aim to reveal where and how nature provides greatest benefits to people, and what actions need to take to enhance urban nature and improve health, equity, livability, and sustainability of cities. 
+title: Thrive Nature and People in Cities
+summary: Over half of humanity lives in cities. Nature-deprived urban lifestyles increase already massive health burdens and risks. This project aims to reveal where and how nature provides greatest benefits to people, and what actions need to take to enhance urban nature and improve health, equity, livability, and sustainability of cities. 
 tags:
 - SDGs
 - Urban
@@ -38,6 +38,6 @@ slides: ""
   
   We aim to reveal where and how nature provides greatest benefits to people, and what actions need to take to enhance urban nature and improve health, equity, livability, and sustainability of cities
 
-{{< figure src="featured.png" caption="" numbered="true" >}}
+# {{< figure src="featured.png" caption="" numbered="true" >}}
 
 
