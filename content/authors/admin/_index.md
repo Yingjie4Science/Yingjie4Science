@@ -18,10 +18,11 @@ bio: I have broad interests in ecosystem services flows and the impacts of *tele
 
 # Interests to show in About widget
 interests:
-- Sustainability 
-- SDGs
+
 - Urban Nature and Health
 - Environmental Footprints
+- Sustainability 
+- SDGs
 - Telecoupling
 - Ecosystem Services
 - Remote Sensing
@@ -81,7 +82,4 @@ email: " "
 highlight_name: true
 ---
 
-Yingjie is a Postdoctoral Scholar in the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/) at Stanford University. He did his Ph.D. in the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at MSU. His research focuses on understanding the interactions of human and environmental systems with a view toward advancing [United Nation Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). His current research examines 
-  (1) the linkages between urban nature exposure and human health; and 
-  (2) *how* [*telecouplings*](https://telecouplingtoolbox.org/) *shape global sustainability*. 
-He has broad interests in ecosystem service flows, international trade, land-food-energy-water nexus, and global environmental policy.
+Yingjie is a Postdoctoral Scholar with the [Natural Capital Project](https://naturalcapitalproject.stanford.edu/) at Stanford University, where he is dedicated to advancing cutting-edge science connecting nature exposure to human health and developing open-source tools for informing urban planning and public health policy. As an interdisciplinary scholar, Yingjie has broad interests in ecosystem service flows, international trade, and land-food-energy-water nexus. He received his Ph.D. in Environmental Science & Policy, as well as Fisheries and Wildlife, from the [Center for Systems Integration and Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University, where he studied how [telecouplings](https://telecouplingtoolbox.org/) shape global sustainability and impact nations’ progress toward [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).
