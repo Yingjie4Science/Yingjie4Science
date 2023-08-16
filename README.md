@@ -14,7 +14,7 @@ I am a Postdoctoral Scholar with the [Natural Capital Project](https://naturalca
 
 ### Open-source Projects
 
-- **R packages:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="139"/>
+- **R packages:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="50"/>
 
 ---
 
