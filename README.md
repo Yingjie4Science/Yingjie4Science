@@ -13,12 +13,6 @@ I am a Postdoctoral Scholar with the [Natural Capital Project](https://naturalca
 
 ---
 
-### Open-source Projects
-
-- **R packages:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="50"/>
-
----
-
 ### Selected Publications
 
 <!-- HASHNODE:START -->
@@ -27,6 +21,14 @@ I am a Postdoctoral Scholar with the [Natural Capital Project](https://naturalca
 - [**Nature Sustainability** - Impacts of international trade on global sustainable development](https://doi.org/10.1038/s41893-020-0572-z)
 - [**Nature** - Assessing progress towards sustainable development over space and time](https://doi.org/10.1038/s41586-019-1846-3)
 <!-- HASHNODE:END -->
+
+---
+
+### Open-source Software
+
+- **R packages:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="50"/>
+
+- [**InVEST models**](https://github.com/natcap/invest) <img src="./assets/media/icons/invest-logo-registeredtm_202305_150dpi.png" align="center" height="50"/>
 
 ---
 
