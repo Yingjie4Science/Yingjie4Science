@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Yingjie4Science?style=social)](https://github.com/yingjie4science?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Yingjie4Science?style=social)](https://twitter.com/yingjie4science)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=uVeP2xAAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Yingjie-Li-7)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-my?logoColor=00CCBB&color=00CCBB)](https://www.researchgate.net/profile/Yingjie-Li-7)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@yingjieli)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/yingjie-li-363924104/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1foUW__2DxmC6NpGTjmQz7LZtA5B1zb9XPiubqugibWE/edit)
