@@ -26,7 +26,9 @@ I am a Postdoctoral Scholar with the [Natural Capital Project](https://naturalca
 
 ### Open-source Software
 
-- **R packages:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="50"/>
+- **R package:** [SDGdetector](https://github.com/Yingjie4Science/SDGdetector) <img src="./assets/media/icons/SDG_detector.png" align="center" height="50"/>
+
+- **Python package:** [seesus](https://github.com/caimeng2/seesus)
 
 - [**InVEST models**](https://github.com/natcap/invest) <img src="./assets/media/icons/invest-logo-registeredtm_202305_150dpi.png" align="center" height="50"/>
 
