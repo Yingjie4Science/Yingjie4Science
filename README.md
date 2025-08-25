@@ -16,6 +16,7 @@ I am a Postdoctoral Scholar with the [Natural Capital Project](https://naturalca
 ### Selected Publications
 
 <!-- HASHNODE:START -->
+- [**Nature Cities** - Acute mental health benefits of urban nature](https://www.nature.com/articles/s44284-025-00286-y)
 - [**Remote Sensing of Environment** - Satellite prediction of coastal hypoxia in the northern Gulf of Mexico](https://doi.org/10.1016/j.rse.2022.113346)
 - [**Environmental Science & Policy** - Synthesizing social and environmental sensing to monitor the impact of large-scale infrastructure development](https://doi.org/10.1016/j.envsci.2021.07.020)
 - [**Nature Sustainability** - Impacts of international trade on global sustainable development](https://doi.org/10.1038/s41893-020-0572-z)
