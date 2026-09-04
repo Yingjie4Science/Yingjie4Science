@@ -35,11 +35,9 @@ I am a **Senior Scientist** with the [Natural Capital Alliance](https://naturalc
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yingjie4Science&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yingjie4Science&langs_count=3&hide=javascript,go,html,css,tex)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Yingjie4Science&show_icons=true&hide_border=true" height="300" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yingjie4Science&langs_count=3&hide=javascript,go,html,css,tex&hide_border=true" height="300" />
+</p>
 
-![GitHub stats](./profile/github-stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yingjie4Science&hide_langs_below=10) -->
+<!-- ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Yingjie4Science&hide_langs_below=10) -->
